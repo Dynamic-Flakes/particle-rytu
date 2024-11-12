@@ -31,12 +31,14 @@ The RYTU marketplace is just what the world needs right now. From the growing re
 
 **Hackathon Solution:**
 The solution currently:
-- Integration with Particle Network for seamless auth and onboarding
-- Presents a great User Interface and User Experience.
+- Seamless User Onboarding: Integration with Particle Network for smooth authentication and onboarding, enhancing accessibility
+- Intuitive User Interface & Experience: Designed for ease of use, with a streamlined interface to engage a broad user base
 - Allows copyright holders to create RYTU NFTs (both ERC-721 and ERC-1155 Standards).
-- Allows copyright holders to set an offer or leave the NFT open for bidding.
-- Allows users to bid for an NFT.
+- Allows users to bid for a RYTU NFT.
 - Provides unlockable content (which often will be the real-world asset associated with the RYTU NFT).
+- Landing page 
+- ⁠RYTU (NFT) explorer marketplace 
+- ⁠Ownership Verification Certification
 
 **Business Model:**
 - Transaction Fees: RYTU marketplace has a transaction fee ($1 and 3.5% for amounts greater than $70 - subject to change) in addition to the Lightlink $1 transaction fee.
@@ -117,7 +119,7 @@ The Right to Use Marketplace  includes the following features:
   - WalletConnect
   - Magic
   - Rainbow
-- Multi-chain support
+- Multi-chain support with Particle Network
 - Multi currency support
 - Advanced fee customization support
 
