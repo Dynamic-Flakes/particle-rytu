@@ -17,7 +17,7 @@ The article discusses Universal Music Group's decision to remove its music from 
 ![Alt text](./diagrams/rytuui.png?raw=true "ERC1155 on Testnet")
 
 ## Live demo
-[Click to view](https://right.app/)
+[Click to view](https://particle-rytu.netlify.app/)
 
 
 ## Overview
