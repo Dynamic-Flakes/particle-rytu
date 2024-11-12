@@ -33,9 +33,6 @@ The RYTU marketplace is just what the world needs right now. From the growing re
 The solution currently:
 - Seamless User Onboarding: Integration with Particle Network for smooth authentication and onboarding, enhancing accessibility
 - Intuitive User Interface & Experience: Designed for ease of use, with a streamlined interface to engage a broad user base
-- Allows copyright holders to create RYTU NFTs (both ERC-721 and ERC-1155 Standards).
-- Allows users to bid for a RYTU NFT.
-- Provides unlockable content (which often will be the real-world asset associated with the RYTU NFT).
 - Landing page 
 - ⁠RYTU (NFT) explorer marketplace 
 - ⁠Ownership Verification Certification
@@ -50,6 +47,9 @@ The solution currently:
 - Advertisement Revenue: RYTU marketplace's home banner will also be monetized and open for advertisement.
 
 **Roadmap:**
+- Allows copyright holders to create RYTU NFTs (both ERC-721 and ERC-1155 Standards).
+- Allows users to bid for a RYTU NFT.
+- Provides unlockable content (which often will be the real-world asset associated with the RYTU NFT).
 - Chrome extension: RYTU marketplace will have a Chrome extension (the provision for download is currently on the home page). This Chrome extension is crucial in its ecosystem as it will be a shopping cart, wallet, single-sign-on, metaverse profile, notification, and payment (fiat to token using RYTU Token) widget.
 - NFT Image Generator: users should be able to generate NFT images from prompts and then proceed to mint.
 - Putting our money where my mouth is: On our team, we have a developer who is also a singer/songwriter. He and several songwriters have already decided to distribute their RYTU NFTs on the platform right after launch, as this is a step in the right direction for creatives.
