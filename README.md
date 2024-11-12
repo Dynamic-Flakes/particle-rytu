@@ -39,6 +39,8 @@ The solution currently:
 - Landing page 
 - ⁠RYTU (NFT) explorer marketplace 
 - ⁠Ownership Verification Certification
+- ⁠Requesting a RYTU from a creator
+- ⁠Negotiating new RYTU terms and conditions with IP owner
 
 **Business Model:**
 - Transaction Fees: RYTU marketplace has a transaction fee ($1 and 3.5% for amounts greater than $70 - subject to change) in addition to the Lightlink $1 transaction fee.
