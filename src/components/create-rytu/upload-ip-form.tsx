@@ -47,6 +47,7 @@ export default function UploadIPForm() {
     if (isConfirmed) {
       toast.success("Clear up");
       onCancel();
+      resetPreview();
       closeModal();
     }
   }, [closeModal, isConfirmed, onCancel]);
